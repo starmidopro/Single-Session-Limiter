@@ -35,7 +35,4 @@ Submit a pull request with a description of changes.
 License
 This plugin is licensed under the GPL v2 or later. See http://www.gnu.org/licenses/gpl-2.0.html for details.
 
-Author
-Mohamed Gamal
-Email: [your-email@example.com] (Add if desired)
-For issues or questions, open an issue on GitHub.
+
